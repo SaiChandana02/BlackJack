@@ -1,7 +1,5 @@
 
-        
-        from ast import Not
-from math import gamma
+       
 from Deck import Deck
 from Player import Player
 class Game:
